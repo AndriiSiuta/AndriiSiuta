@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,17,24&text=Andrii%20Siuta&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Tech%20Lead%20%C2%B7%20Principal%20Front-End%20Engineer%20%C2%B7%20Web%20Platform%20Architect&descSize=18&descAlignY=58&animation=fadeIn" alt="banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:F0060B,50:CC26D5,100:7702FF&text=Andrii%20Siuta&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Tech%20Lead%20%C2%B7%20Principal%20Front-End%20Engineer%20%C2%B7%20Web%20Platform%20Architect&descSize=18&descAlignY=58&animation=fadeIn" alt="banner" />
 
 <a href="https://andriisiuta.github.io">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=FF3E7F&center=true&vCenter=true&width=600&lines=Angular+%26+Web+Platform+Architect;Nx+Monorepo+Architect+%C2%B7+100%2B+repos;SSR+%C2%B7+SSG+%C2%B7+Signals+%C2%B7+Performance;AI-assisted+engineering+workflows" alt="typing" />
@@ -66,8 +66,8 @@ Principal Front-End Engineer / Tech Lead specializing in **scalable web platform
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AndriiSiuta&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FF3E7F&icon_color=A855F7&text_color=c9d1d9&ring_color=FF3E7F" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndriiSiuta&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF3E7F&text_color=c9d1d9&langs_count=6" alt="languages" />
+<img height="170" src="https://github-readme-stats.zohan.tech/api?username=AndriiSiuta&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FF3E7F&icon_color=A855F7&text_color=c9d1d9&ring_color=FF3E7F" alt="stats" />
+<img height="170" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=AndriiSiuta&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF3E7F&text_color=c9d1d9&langs_count=6" alt="languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=AndriiSiuta&hide_border=true&background=0d1117&ring=FF3E7F&fire=A855F7&currStreakLabel=FF3E7F&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="streak" />
 
@@ -90,6 +90,6 @@ Principal Front-End Engineer / Tech Lead specializing in **scalable web platform
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,17,24&section=footer" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:F0060B,50:CC26D5,100:7702FF&section=footer" alt="footer" />
 
 </div>
