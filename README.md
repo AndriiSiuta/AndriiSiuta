@@ -73,6 +73,9 @@ Principal Front-End Engineer / Tech Lead specializing in **scalable web platform
 
 </div>
 
+<!-- Contribution snake: enable after granting `workflow` scope (gh auth refresh -s workflow)
+     and restoring .github/workflows/snake.yml — then uncomment:
+
 ## 🐍 Contributions
 
 <div align="center">
@@ -83,6 +86,7 @@ Principal Front-End Engineer / Tech Lead specializing in **scalable web platform
 </picture>
 
 </div>
+-->
 
 <div align="center">
 
