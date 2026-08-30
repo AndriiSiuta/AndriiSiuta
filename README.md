@@ -27,6 +27,21 @@ Principal Front-End Engineer / Tech Lead specializing in **scalable web platform
 
 </div>
 
+## 🤖 AI Engineering
+
+AI as part of the engineering system, not a chat window — certified in **AI Agentic Engineering** (Neoversity, 2026) and applying it daily in enterprise work.
+
+| | |
+|---|---|
+| 🧭 **AI-harness architecture** | Rules, reusable skills, subagents (planner · implementer · reviewer · tester · verifier), hooks as guardrails |
+| 📐 **Spec-Driven Development** | requirements → spec → plan → implementation → verification — merge-ready PRs |
+| 🔌 **MCP servers** | Custom Model Context Protocol servers wiring agents to GitHub, trackers, and internal enterprise services |
+| ✅ **AI verification in CI** | Custom CI agents: plan verifiers, cross-model review, automated quality gates |
+| 🕸️ **Multi-agent orchestration** | Parallel worktree fan-out, adversarial review, per-run cost control |
+| 📊 **Evals, cost & AG-UI** | Trace-based evals for LLM features, cost reporting, agent-user interfaces in enterprise apps |
+
+🎓 Capstone: **[DevDigest](https://github.com/AndriiSiuta/dev-digest)** — GitHub-connected AI code review with custom reviewer agents, MCP integrations, CI verification, and an eval pipeline.
+
 ## 🛠️ Arsenal
 
 **Core**
@@ -59,7 +74,8 @@ Principal Front-End Engineer / Tech Lead specializing in **scalable web platform
 **AI & Agents**
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP_·_Agent_Workflows-1A1B27?style=for-the-badge&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_Servers_·_Agent_Workflows-1A1B27?style=for-the-badge&logo=anthropic&logoColor=white)
+![AG-UI](https://img.shields.io/badge/AG--UI_·_CI_Agents-7702FF?style=for-the-badge&logo=robotframework&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex_CLI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ## 📊 GitHub Analytics
