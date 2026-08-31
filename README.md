@@ -29,7 +29,9 @@ Principal Front-End Engineer / Tech Lead specializing in **scalable web platform
 
 ## 🤖 AI Engineering
 
-AI as part of the engineering system, not a chat window — certified in **AI Agentic Engineering** (Neoversity, 2026) and applying it daily in enterprise work.
+AI as part of the engineering system, not a chat window — certified in **[AI Agentic Engineering](https://certificates.neoversity.com.ua/verify?certId=1080&lang=ENG&type=pass)** (Neoversity, Senior Engineering Track, 2026) and applying it daily in enterprise work.
+
+<a href="https://certificates.neoversity.com.ua/verify?certId=1080&lang=ENG&type=pass"><img src="https://img.shields.io/badge/🎓_Certificate-Verified_·_Neoversity_%231080-22C55E?style=for-the-badge" alt="verified certificate" /></a>
 
 | | |
 |---|---|
