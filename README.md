@@ -87,7 +87,7 @@ AI as part of the engineering system, not a chat window — certified in **[AI A
 <img height="170" src="https://github-readme-stats.zohan.tech/api?username=AndriiSiuta&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FF3E7F&icon_color=A855F7&text_color=c9d1d9&ring_color=FF3E7F" alt="stats" />
 <img height="170" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=AndriiSiuta&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF3E7F&text_color=c9d1d9&langs_count=6" alt="languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AndriiSiuta&hide_border=true&background=0d1117&ring=FF3E7F&fire=A855F7&currStreakLabel=FF3E7F&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="streak" />
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="./profile/streak.svg" alt="streak" /></a>
 
 </div>
 
